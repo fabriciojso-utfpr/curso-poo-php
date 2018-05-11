@@ -22,6 +22,7 @@
     },
 
     "scripts": {
-        "test":"vendor/bin/phpunit"
+        "test":"vendor/bin/phpunit",
+        "server":"php -S localhost:3000 -t public public/index.php"
     }
 }

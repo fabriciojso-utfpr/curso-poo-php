@@ -1,0 +1,16 @@
+{
+    // Tema Origamid
+    "editor.fontFamily": "IBM Plex Mono, Monaco, 'Courier New', monospace",
+    "terminal.integrated.fontSize": 14,
+    "editor.fontSize": 16,
+    "editor.lineHeight": 25,
+    "editor.tabSize": 4,
+    "editor.wordWrap": "on",
+    "workbench.colorTheme": "Origamid",
+    "workbench.startupEditor": "newUntitledFile",
+    "window.zoomLevel": 0,
+    //--- fim Tema Origamid
+
+    "workbench.iconTheme": "material-icon-theme"
+    
+}
